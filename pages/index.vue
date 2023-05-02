@@ -549,7 +549,9 @@
                   <c-box class="img-dimensions">
                     <c-box
                       as="img"
-                      :src="resolveImageSrc('', project, index)"
+                      :src="
+                        resolveImageSrc('http://picsum.photos', project, index)
+                      "
                       loading="lazy"
                       alt="AN Corp project picture"
                       class="img-dimensions proj-thumb-img"
@@ -2192,7 +2194,7 @@ export default {
         remainingUrl = '';
       }
 
-      return `${remainingUrl}`;
+      return `${url}${remainingUrl}`;
     },
 
     bidClosed(date) {
