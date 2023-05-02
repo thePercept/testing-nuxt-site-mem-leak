@@ -1,0 +1,434 @@
+{
+  "home": "Home",
+
+  "header_one": {
+    "skip": "Skip to main content",
+    "screen_reader": "Screen reader",
+    "lang": "English"
+  },
+  "primary_nav": {
+    "link_zero": "Home",
+    "link_one": "News & Events",
+    "link_two": "Letters & Circulars",
+    "link_three": "Tender",
+    "link_four": "Procurement",
+    "link_five": "ERP",
+    "link_five_items": {
+      "candidate_kyc": "Candidate KYC",
+      "nodal_officer_reg": "Nodal Officer Registration",
+      "erp_helpdesk_team": "ERP Helpdesk Team",
+      "customer_portal": "Customer Portal",
+      "undeployed_kyc": "Undeployed KYC"
+    },
+    "link_six": "Projects",
+    "link_seven": "Services",
+    "link_eight": "Gallery",
+    "current_tenders": "Current Tenders",
+    "archived_tenders": "Archived Tenders",
+    "rate_contract": "Rate Contract",
+    "eprocurement": "E-Procurement"
+  },
+  "pages": {
+    "publish_date": "Publish Date",
+    "search_placeholder": "Search in this table",
+    "table_msg_fetching": "Fetching data from server. Please wait...",
+    "no_data_to_show": "No Data to show,please refresh or come back again in sometime",
+    "publication_types": {
+      "newsevents": "News & Events",
+      "letterscirculars": "Letters & Circulars",
+      "erp": "E.R.P",
+      "ratecontract": "Rate Contract",
+      "projects": "Projects",
+      "services": "Services",
+      "gallery": "Gallery",
+      "tender": "Tender",
+      "others": "Others"
+    },
+    "latest_updates": {
+      "heading_latest_updates": "Latest Updates"
+    },
+    "tenders": {
+      "tender_details": "Tender Details",
+      "tender_status": "Tender Status",
+      "active_new": "Active(NEW)",
+      "active": "Active",
+      "archived": "Archived",
+      "updated": "Updated",
+      "no_status": "No Status",
+      "tender_name": "Tender Name",
+      "bid_details": "Bid Details",
+      "last_date_time_of_bid": "Last Date/Time of Bid Submission",
+      "bid_opening_datetime": "Bid Opening Date/Time",
+      "pre_bid_datetime": "Pre-bid Date/Time",
+
+      "heading_current_tenders": "Current Tenders",
+      "heading_archived_tenders": "Archived Tenders"
+    },
+    "newsevents": {
+      "newsevent_status": "News/Events Status",
+      "heading_newsevent_indexpage": "News & Events",
+      "heading_newsevent_details": "News & Events Details",
+      "heading_newsevent": "News Headline",
+      "heading_more_details": "More Details",
+      "heading_newsevent_documents": "News & Event Document",
+      "heading_newsevent_url": "News & Event URL"
+    },
+    "letterscirculars": {
+      "heading_letter_circulars": "Letters & Circulars",
+      "lettercircular_details": "Letter Circular Detail",
+      "lettercircular_name": "Letter Circular Name",
+      "lettercircular_document": "Letter Circular Document"
+    },
+
+    "services": {
+      "heading_services": "SERVICES",
+      "heading_manpower_services": "Engineering and Construction Manpower Services",
+      "para_one": "AN Corp provides skilled manpower support to various engineering and construction projects. We provide trained engineers, architects, and construction workers for the betterment of our clients' projects.",
+      "para_two": "Our team consists of experienced professionals with a deep understanding of the engineering and construction industry. We are constantly expanding our team to meet the growing demand for skilled manpower in the field.",
+      "heading_send_manpower": "Send engineering and construction manpower related queries to",
+      "email": "E-Mail",
+      "heading_itc": "Engineering and Construction IT Consultancy",
+      "para_itc_one": "AN Corp offers IT consultancy services to engineering and construction firms. Our team of experts provides advice on how best to use information technology (IT) to achieve construction objectives. We can also manage, implement, deploy, and administer IT systems on behalf of our clients.",
+      "para_itc_two": "We offer world-class IT consultancy services to our clients. Our consultants have years of experience in the engineering and construction industry and are among the best in their respective fields.",
+      "heading_egov": "E-Governance/IT-ES",
+      "para_itc_three": "In the year 2006, AN Corp collaborated with IL&FS to form a joint venture company called 'AN Corp Private Limited' with the aim of providing E-Governance and IT-ES services. Our primary focus is to provide advisory and project management services to the state government."
+    },
+    "eprocurement": {
+      "heading_eproc": "E-Procurement",
+      "para_one": "In this era of digital transformation, AN Corp PVT LD offers e-procurement solutions to streamline the procurement process for our clients. Our e-procurement solutions help our clients save time and money by automating the procurement process and improving transparency."
+    },
+    "rate_contract": {
+      "heading_rate_contract": "Rate Contract",
+      "heading_rate_contract_details": "Rate Contract Details"
+    },
+    "website_policies": {
+      "heading_main": "Website Policies",
+      "heading_one": "Disclaimer",
+      "para_one": "Content on this website is published and managed by AN Corp PVT LD and every effort is being made to update the information periodically. In case any discrepancy is found in the content of this website, please bring it to the notice of the Web Information Manager via email.",
+      "para_two": "",
+      "heading_two": " Copyright Policies",
+      "para_three": "",
+      "heading_three": "Terms & Conditions",
+      "heading_four": " Privacy Policy",
+      "para_four": "",
+      "para_five": ""
+    },
+    "board_of_directors": {
+      "heading_board_of_directors": "Board Of Directors"
+    },
+    "our_team": {
+      "heading_our_team": "Our Team"
+    },
+    "list_of_md": {
+      "heading_list_of_md": "List Of Managing Directors"
+    },
+    "projects": {
+      "heading_projects": "Projects",
+      "heading_project_details": "Project Details",
+      "attachment_label": "Project Document(s)"
+    },
+    "gallery": {
+      "heading_gallery": "Media Gallery"
+    },
+    "org_chart": {
+      "profile_card_comp": {
+        "md": "Managing Director (M.D)"
+      },
+      "heading_org_chart": "Organization Chart",
+      "designation_line_board_member": "Board Members",
+      "designation_line_md": "Managing Director",
+      "designation_line_gm_only": "General Manager",
+      "acc_staff": "Account Staff",
+      "designation_line_gm_staff": "General Management Staff",
+      "asst_mgr_manp": "Assistant Manager (Manpower)",
+      "asst_mgr_establishment": "Assistant Manager (Establishment)",
+      "asst_mgr_civil": "Assistant Manager (Civil)",
+      "asst_mgr_electrical": "Assistant Manager (Electrical)",
+      "cao": "Chief Account Officer",
+      "acc_ofc_one": "Account Officer 1",
+      "acc_ofc_two": "Account Officer 2",
+      "acc_ofc_three": "Account Officer 3",
+      "acc_asst_one": "Account Assistant 1",
+      "acc_asst_two": "Account Assistant 2",
+      "conc_ina_one": "Concurrent Internal Auditor 1",
+      "conc_ina_two": "Concurrent Internal Auditor 2",
+
+      "designation_line_gm_proj": "General Manager (Project)",
+      "mgm_proj": "Management Staff (Project)",
+      "proj_exec_one": "Project Executive 1",
+      "proj_exec_two": "Project Executive 2",
+      "deo": "Data Entry Operator",
+      "mgr_pmu_six": "Manager PMU 6",
+      "mgr_pmu_seven": "Manager PMU 7",
+
+      "designation_line_gm_itid": "General Manager (IT Infrastructure Development & Investment Promotion)",
+      "designation_line_mgr_itp": "Manager (Investment Promotion)",
+      "designation_line_pmu_inv_fac": "Investment Facilitation-cum- PMU",
+      "designation_line_mgr_head_proc": "Procurement & Contract Managmnet Head",
+      "pdo": "Project Development Officer",
+      "alltmnt_cont_mgr": "Allotment & Contract Monitoring Officer",
+      "facility_mgmt_agency": "Facility Managmnet Agency"
+    },
+    "mission_vision": {
+      "heading_mission_vision": "Mission & Vision",
+      "heading_mission": "Mission",
+      "para_one": "AN Corp is an engineering and construction company engaged in providing exceptional solutions and services related to its industry. The corporation caters to the technological needs of its clients and carries out project conceptualization and implementation for various government and private sector entities.",
+      "para_two": "AN Corp believes in going beyond the ordinary delivery of services and solutions. They strive to understand the vision and mission of the organization, assess the needs of stakeholders, work towards measurable objectives, and deliver value to the beneficiaries by providing superior solutions and services.",
+      "point_1": "To provide excellent engineering and construction solutions and services to its clients.",
+      "point_2": "To help its clients adapt to modern management techniques.",
+      "point_3": "To create a robust ecosystem for enhancing competitiveness and productivity of key economic sectors, which affect the lives of the majority of the population.",
+      "point_4": "To disseminate engineering and construction activities across the country so that rural population is equally benefited.",
+      "point_5": "To significantly enhance the availability of skilled manpower in the industry.",
+      "point_6": "To provide seamless and reliable services and information for the public, thereby enhancing efficiency, transparency, and accountability.",
+
+      "heading_vision": "Vision",
+      "vision_para_one": "AN Corp envisions empowering society through its engineering and construction services, making it a catalyst for the transition into a developed state."
+    },
+    "contact_us": {
+      "heading_contact_us": "Contact Us"
+    },
+    "annual_returns": {
+      "heading_annual_returns": "Annual Return"
+    },
+    "asset_declaration": {
+      "heading_asset_declaration": "Asset Declaration"
+    },
+    "csr_policies": {
+      "main_page_heading": "Corporate Social Responsibility Policy, 2021",
+
+      "heading_one_definition": "1. DEFINITION",
+      "definition_i": "The “Act” Means the Companies Act, 2013.",
+      "definition_ii": "“Corporate Social Responsibility” means and includes but is not limited to:-",
+      "definition_ii_one": "Projects or programs relating to activities specified in, Schedule VII of the Act; or",
+      "definition_ii_two": "Projects or programs relating to activities undertaken by the Board of directors of the company (Board) in pursuance of, recommendations of the CSR Committee of the Board, as per declared CSR Policy of the Company, subject to the condition that such policy will include activities, areas or subjects specified in Schedule VII of the Act which may be read and interpreted broadly/liberally.",
+      "definition_ii__": "The “CSR Committee” means the Corporate Social Responsibility Committee of the Board referred to in Section 135 of the Act.",
+      "definition_iii": "“CSR Policy” relates to the activities to be undertaken by the Company as specified in Schedule VII to the Act and the expenditure thereon, excluding activities undertaken in pursuance of normal course of business of the Company.",
+      "definition_iv": "“Net Profit” means the net profit of the company as per its financial statement prepared in accordance with the applicable provisions of the Act, but shall not include the following namely:-",
+      "definition_iv_one": "Any profit arising from any overseas branch or branches of the company, whether operated as a separate company or otherwise; and",
+      "definition_iv_two": "any dividend received from other companies in India, which are covered under and complying with the provisions of, section 135 of the Act.",
+
+      "heading_two_vision": "2. CSR VISION",
+      "csr_vision_i": "“To be a responsible corporate with its strategies, policies and actions aligned with wider social concerns by contributing to the social-economic development.”",
+
+      "heading_three_csr_mission": "3. CSR MISSION AND OBJECTIVES",
+      "csr_mission_para": "Recognizing that business enterprises are economic organs of society and draw on societal resources, it is BSEDCL belief that the Company’s performance must be measured by its contribution to socio-economic development of the areas in which it operates. To undertake holistic development initiatives/projects in the community at large apart from compliance with the provisions of the Companies Act, 2013 and rules and regulations made there under and to act as a good Corporate Citizen by adhering to the internationally accepted standards of saving the planet from every find of pollution and thereby maintaining the greener and cleaner earth to live at. In order to channelize CSR resources in a focused and meaningful manner, following thrust areas in accordance to Schedule – VII of the Companies Act, 2013 have been identified by BSEDCL, which may be read and interpreted broadly/liberally:-",
+      "csr_mission_i": "Eradicating hunger, poverty and malnutrition, promoting health care including preventive health care and sanitation including contribution to the Swach Bharat Kosh set-up by the Central Government for the promotion of sanitation and making available safe drinking water",
+      "csr_mission_ii": "Promoting education, including special education and employment enhancing vocation skills especially among children, women, elderly and the differently abled and livelihood enhancement projects.",
+      "csr_mission_iii": "Promoting gender equality, empowering women, setting up homes and hostels for women and orphans; setting up old age homes, day care centres and such other facilities for senior citizens and measures for reducing inequalities faced by socially and economically backward groups.",
+      "csr_mission_iv": "Ensuring environmental sustainability, ecological balance, protection of flora and fauna, animal welfare, agro-forestry, conservation of natural resources and maintaining quality of soil, air and water including contribution to the Clean Ganga Fund set-up by the Central Government for rejuvenation of river Ganga.",
+      "csr_mission_v": "Protection of national heritage, art and culture including restoration of buildings and sites of historical importance and works of art; setting up public libraries; promotion and development of traditional art and handicrafts;",
+      "csr_mission_vi": "Measures for the benefit of armed forces veterans, war widows and their dependents, Central Armed Police Forces (CAPF) and Central Para Military Forces (CPMF) veterans, and their dependents including widow;",
+      "csr_mission_vii": "Training to promote rural sports, nationally recognized sports, paralympic sports and Olympic sports.",
+      "csr_mission_viii": "Contribution to the prime minister’s national relief fund [or Prime Minister’s Citizen Assistance and Relief in Emergency Situations Fund (PM CARES Fund)] or any other fund set up by the central govt. for socio economic development and relief and welfare of the schedule caste, tribes, other backward classes, minorities and women;",
+      "csr_mission_ix_a": "ix (a). Contribution to incubators or research and development projects in the field of science, technology, engineering and medicine, funded by the Central Government or State Government or Public Sector Undertaking or any agency of the Central Government or State Government; and",
+      "csr_mission_ix_b": "ix (b). Contributions to public funded Universities; Indian Institute of Technology (IITs); National Laboratories and autonomous bodies established under Department of Atomic Energy (DAE); Department of Biotechnology (DBT); Department of Science and Technology (DST); Department of Pharmaceuticals; Ministry of Ayurveda, Yoga and Naturopathy, Unani, Siddha and Homoeopathy (AYUSH); Ministry of Electronics and Information Technology and other bodies, namely Defense Research and Development Organization (DRDO); Indian Council of Agricultural Research (ICAR); Indian Council of Medical Research (ICMR) and Council of Scientific and Industrial Research (CSIR), engaged in conducting research in science, technology, engineering and medicine aimed at promoting Sustainable Development Goals (SDGs)",
+      "csr_mission_x": "x. Rural development projects",
+
+      "heading_four_csr_committee": "4. COMPOSITION OF CSR COMMITTEE",
+      "csr_committee_para_one": "CSR committee of the company shall comprise of three or more directors, out of which at least one shall be an independent director as applicable to unlisted public companies. The members of the committee shall be appointed/ nominated by the Board at any time or from time to time and hence the CSR committee shall be regarded as the committee of the Board.",
+
+      "csr_committee_para_two": "However where the amount required to be spent by the company on CSR does not exceed fifty lakh rupees, the requirement for constitution of the CSR Committee will not be mandatory, unless directed otherwise by the Board, and the functions of the CSR Committee, in such cases, shall be discharged by the Board of Directors of the company.",
+
+      "csr_committee_para_three": "The number of committee meeting(s) required to be held in any year and the quorum required for such meetings shall be determined by the Board.",
+
+      "heading_five_fn_csr_committee": "5. FUNCTIONS OF THE CSR COMMITTEE",
+      "fn_csr_committee_line": "The Corporate Social Responsibility Committee shall —",
+      "fn_csr_committee_line_i": "formulate and recommend the CSR policy to the Board;",
+      "fn_csr_committee_line_ii": "recommend the amount of expenditure to be incurred on CSR activities;",
+      "fn_csr_committee_line_iii": "monitor the CSR policy of the company from time to time;",
+      "fn_csr_committee_line_iv": "formulate and recommend to the Board, an annual action plan in pursuance of its CSR policy, which shall include the items as mentioned in rule 5(2) of the Companies (CSR Policy) Rules, 2014 and",
+      "fn_csr_committee_line_v": "Any other function relating to CSR of the company as may be directed by the Board ",
+      "fn_csr_committee_line_para": "Whenever the company is not required to have CSR Committee, as explained in the second para of point 4 here above, these functions shall be carried out by the Board itself.",
+
+      "heading_six_responsibility": "6. RESPONSIBILITIES OF THE BOARD IN RELATION TO THE CSR PROVISIONS",
+      "responsibility_line": "CSR is a Board-driven process. The responsibilities of the Board of the company, shall include the following—",
+      "responsibility_line_i": "approve the CSR policy;",
+      "responsibility_line_ii": "disclose contents of such policy in its report and also place it on the company's website, if any;",
+      "responsibility_line_iii": "ensure that the activities included in the CSR policy are undertaken by the company;",
+      "responsibility_line_iv": "ensure that the company spends, in every financial year, at least two per cent of the average net profits of the company made during the three immediately preceding financial years;",
+      "responsibility_line_v": "satisfy itself regarding the utilisation of the disbursed CSR funds; and",
+      "responsibility_line_vi": "if the company fails to spend at least two per cent of the average net profits of the company, the Board shall, in its report made under clause (o) of sub-section (3) of section 134, specify the reasons for not spending the amount and transfer the unspent CSR amount as per provisions of sections 135(5) and 135(6) of the Act.",
+
+      "heading_seven_mechanism": "7. MECHANISMS FOR MONITORING THE CSR PROCESS",
+      "mechanism_para": "CSR is a Board-driven process, and the Board of the company is empowered to plan, decide, execute, and monitor the CSR activities of the company based on the recommendation of CSR Committee. The CSR architecture is disclosure-based and the company is required to file details of CSR activities annually in MCA21 registry. Company is also required to make necessary disclosures in the financial statements regarding CSR including non-compliance. The existing legal provisions such as mandatory disclosures, accountability of the CSR Committee and the Board, the provisions for audit of accounts of the company provide sufficient mechanisms for monitoring.",
+
+      "heading_eight_expenditure": "8. CSR EXPENDITURE",
+      "expenditure_a": "CALCULATION OF AVERAGE NET PROFIT FOR THE PURPOSE OF CSR EXPENDITURE U/S 135 OF THE COMPANIES ACT, 2013 (THE ACT)",
+      "expenditure_a_para": "The average net profit for the purpose of determining the spending on CSR activities is to be computed in accordance with the provisions of section 198 of the Act and will also be exclusive of the items given under rule 2(1) (h) of the Companies (CSR Policy) Rules, 2014. Profit before Tax (PBT) is to be used for computation of net profit under section 135 of the Act",
+
+      "expenditure_b": "ADMINISTRATIVE OVERHEADS AND PERMISSIBLE LIMITS",
+      "expenditure_b_i": "Administrative overheads are the expenses incurred by the company for ‘general management and administration’ of CSR functions. However, the expenses which are directly incurred for the designing, implementation, monitoring, and evaluation of a particular CSR project or programme, shall not be included in the administrative overheads.",
+      "expenditure_b_ii": "Administrative overheads generally comprise of items such as employee costs, utilities, office supplies, legal expenses, etc. However, expenses which are attributed to the project implementation shall be included in project cost only. Salary and training for the employees working in the CSR division of the company, stationery cost, travelling expenses, etc shall be categorised as administrative overheads. The maximum permissible limit for administrative overheads is five per cent (5%) of the total CSR expenditure of the company for the financial year.",
+      "expenditure_b_iii": "Expenses incurred by implementing agencies on the management of CSR activities shall not amount to administrative overheads and cannot be claimed by the company.",
+      "expenditure_b_iv": "The surplus arising out of CSR activities shall be utilised only for CSR purposes. Surplus refers to income generated from the spend on CSR activities, e.g., interest income earned by the implementing agency on funds provided under CSR, revenue received from the CSR projects, disposal/sale of materials used in CSR projects, and other similar income sources. Contribution to corpus of any entity is not an admissible CSR expenditure. The CSR expenditures/activities cannot be made in kind. Any matters or activities relating to CSR expenditures not specifically mentioned in this policy shall be applicable as per the provisions of the act and the rules framed there under.",
+      "expenditure_b_v": "If CSR spending obligation is being met through implementing agency, the Managing Director (in-charge) shall ensure that the funds allocated to such agencies on the basis of CSR budget based on the modalities of the project as approved by the Board, are spent within the time frame.",
+      "expenditure_b_vi": "CSR should not be interpreted as a source of financing the resource gaps in Government Schemes. However, the Board of the company may undertake similar activities independently subject to fulfilment of Companies (CSR Policy) Rules, 2014.",
+      "expenditure_b_vii": "The Board of Directors of the company, on recommendation of CSR committee, may authorise the company to collaborate with other companies for undertaking CSR activities by way of pooling their CSR resources.",
+      "expenditure_b_viii": "The budget outlay dedicated for one project can be used against another project.",
+
+      "expenditure_c": "SET OFF OF EXCESS AMOUNT SPENT ON CSR",
+      "expenditure_c_para": "The excess amount spent in any financial year (over and above 2% of the expenditure) can be set off against the required 2% CSR expenditure up to the immediately succeeding three financial years subject to compliance with the conditions stipulated under rule 7(3) of the Companies (CSR Policy) Rules, 2014.",
+
+      "expenditure_d": "MODES OF INCURRING CSR EXPENDITURE",
+      "expenditure_d_line": "CSR expenditure can be incurred in following modes:",
+      "expenditure_d_line_i": "‘Activities route’, which is a direct mode wherein the company undertake the CSR projects or programmes as per Schedule VII of the Act, either by itself or by engaging implementing agencies as prescribed in Companies (CSR Policy) Rules, 2014.",
+      "expenditure_d_line_ii": "‘Contribution to funds route', which allows the contributions to various funds as specified in Schedule VII of the Act.",
+      "expenditure_d_line_iii": "Contribution to incubators and R&D projects, as specified in item (ix)(a) and contribution to institutes/organisations, engaged in research and development activity, as specified under item (ix)(b) of Schedule VII of the Act.",
+
+      "heading_nine_activities": "9. MODES OF IMPLEMENTATIONS OF CSR ACTIVITIES",
+      "activities_line": "Pursuant to rule 4 of the Companies (CSR Policy) Rules, 2014 the company may undertake CSR activities through following three modes of implementation:",
+      "activities_line_i": "Implementation by the company itself ",
+      "activities_line_ii": "Implementation through eligible implementing agencies as prescribed under sub-rule (1) of rule 4.",
+      "activities_line_iii": "Implementation in collaboration with one or more companies as prescribed under subrule (4) of rule 4",
+      "activities_para": "In case of implementation of project through implementing or outside agencies, the company shall obtain an utilisation and/or completion certificate from such agencies immediately after the end of financial year",
+
+      "heading_ten_thereto": "10. ONGOING PROJECT AND BOARDS RESPONSIBLITY THERETO",
+      "thererto_para": "The intent of CSR is to encourage companies to undertake the activities in a project or programme mode rather than as a one-off event and accordingly the company shall strive to spend in on-going projects such as:",
+      "thereto_i": "a multi-year project, stretching over more than one financial year; ",
+      "thereto_ii": "Having a timeline not exceeding three years excluding the year of commencement. Under no circumstances shall the time period of ongoing project be extended beyond this limit.",
+      "thereto_iii": "Includes Projects that was initially not approved as a multi-year project but whose duration has been extended beyond one year by the Board based on reasonable justification.",
+      "thereto_para_two": "The project should have commenced within the financial year to be termed as ‘ongoing’. The intent is to include a project which has an identifiable commencement and completion dates. After the completion of any ongoing project, the Board of the company is free to design any other project related to operation and maintenance of such completed projects in a manner as may be deemed fit on a case-to-case basis.",
+
+      "thereto_note": "Note",
+      "thereto_note_a": "The term ‘year’ refers to financial year as defined in section 2(41) of the Act.",
+      "thereto_note_b": "An ongoing project will have ‘commenced’ when the company has either issued the work order pertaining to the project or awarded the contract for execution of the project.",
+
+      "thereto_note_line": "In case of ongoing projects, the major responsibilities of the Board, inter-alia, include:",
+
+      "thereto_note_line_iv": "(iv). identification of the ongoing projects;",
+      "thereto_note_line_v": "(v). year-wise allocation of funds;",
+      "thereto_note_line_vi": "(vi). transferring the unspent money to a separate bank account as prescribed under sub-section (6) of section 135;",
+      "thereto_note_line_vii": "(vii). monitoring the implementation of the projects with reference to the approved timelines and year-wise allocation; and",
+      "thereto_note_line_viii": "(viii). Making modifications, if any, for smooth implementation of the projects within the overall permissible time period.",
+      "thereto_note_para": "The Board may abandon or modify an on-going project, partially or wholly, under exceptional circumstances only during the prescribed project period as per the recommendation of its CSR committee, and by providing reasonable justification to that effect.",
+
+      "heading_11_amount": "11. TREATMENT OF UNSPENT CSR AMOUNT",
+      "amount_para_one": "If the company spends less than the amount required to be spent under CSR obligation, the Board shall specify the reasons for not spending in the Board’s report and shall deal with the unspent amount in the following manner:",
+
+      "amount_table_h1": "NATURE OF UNSPENT AMOUNT",
+      "amount_table_h2": "ACTION REQUIRED",
+      "amount_table_h3": "TIMELINES",
+
+      "amount_table_r1_c1": "Unspent amount pertains to ‘ongoing projects’",
+      "amount_table_r1_c2": "Transfer such unspent amount to a separate bank account of the company to be called as ‘Unspent CSR Account’.",
+      "amount_table_r1_c3": "Within 30 days from the end of the financial year.",
+
+      "amount_table_r2_c1": "Unspent amount pertains to ‘other than ongoing projects’",
+      "amount_table_r2_c2": "Transfer unspent amount to any fund included in Schedule VII of the Act.",
+      "amount_table_r2_c3": "Within 6 months from the end of the financial year.",
+
+      "amount_para_two": "The compliance of CSR is fulfilled when the company spends the prescribed amount as per its obligation. However, in case the company fails to spend the requisite amount within the financial year, it shall fulfil its obligation by transferring the unspent amount to any fund included in Schedule VII of the Act. The same will be considered as compliance with section 135(5) of the Act. Further, the Board of the company is required to give the requisite disclosure in the Board report and annual report on CSR.",
+
+      "heading_nine_req": "12. REPORTING & DISCLOSURE REQUIREMENTS",
+      "heading_nine_req_para": "The Board’s Report pertaining to any financial year, shall include an annual report on CSR containing particulars specified in Annexure I or Annexure II of the rule 8(1) of the Companies (CSR Policy) Rules, 2014.",
+      "heading_nine_req_line": "The company shall mandatorily disclose the following on its website, if any, for public access:",
+      "heading_nine_req_line_i": "Composition of the CSR Committee;",
+      "heading_nine_req_line_ii": "CSR Policy; and",
+      "heading_nine_req_line_iii": "Projects approved by the Board",
+
+      "heading_general": "GENERAL:",
+      "general_para": "Any other matter, items or requirements of law under CSR, not covered under this policy, where intentionally or un-intentionally and further whether presently applicable to the company or not, shall be complied or acted upon as per the provisions of the act and the rules framed there under whenever and wherever required or applicable. If the company requires or desires to modify or amend any of these rules, or the CSR policy in entirety, prior approval of Board of Directors of the company shall be obtained upon recommendation of CSR committee of the company."
+    }
+  },
+
+  "latest_updates": "Latest Updates",
+  "authorities_section": {
+    "designation_one": "Hon’ble Founder in Chief",
+    "designation_two": "Hon’ble Director",
+    "designation_three": "Managing Director AN Corp, Chennai"
+  },
+
+  "heading_tenders": "Tenders",
+  "heading_authorities": "Our esteemed heads and authorities",
+  "heading_news_event": "News & Events",
+  "heading_lnc": "Letters & Circulars",
+  "heading_about_ancorp": "About ancorp",
+  "heading_excellence": "Excellence",
+
+  "about_ancorp_one": "AN Corp is a premier engineering and construction company in the state of Telangana, dedicated to providing top-quality services to its clients and customers.",
+  "about_ancorp_two": "The State Government is committed to promote the state of Telangana as a hub for engineering and construction industries in the country.",
+  "about_ancorp_three": "AN Corp is a leading engineering and construction company in the state of Telangana. We specialize in building infrastructure, such as roads, bridges, and buildings, as well as providing services related to construction management and design.",
+  "about_ancorp_four": "To provide seamless and reliable engineering and construction services for the public and private sectors, thereby enhancing efficiency, safety, and sustainability of infrastructure.",
+  "about_ancorp_five": "To create a robust engineering and construction eco-system for enhancing competitiveness and productivity of the key economic sectors affecting the lives of the majority of the population of the state of Telangana.",
+
+  "heading_initiative": "OUR MISSION",
+  "heading_robust": "ROBUST ENGINEERING AND CONSTRUCTION ECO-SYSTEM",
+
+  "heading_projects_services": "Our Projects & Services",
+  "heading_projects": "OUR PROJECTS",
+  "projects_msg": " AN Corp has excelled in achieving great success on numerous engineering and construction projects",
+  "heading_services": "OUR SERVICES",
+  "services_msg": "AN Corp provides various services for its clients which range from engineering and construction management to design",
+
+  "heading_itc": "ENGINEERING CONSULTANCY",
+  "heading_manpower": "OUR MANPOWER SERVICES",
+  "heading_egov": "ENGINEERING AND CONSTRUCTION MANAGEMENT",
+
+  "heading_contact_us": "Contact Us",
+  "heading_back_to_top": "BACK TO TOP",
+  "heading_about_us": "About Us",
+  "heading_quick_access": "Quick Access",
+  "heading_external_links": "External Links",
+
+  "bid_closing_soon": "Bid is closing soon, hurry up only",
+  "days_left": " days left",
+  "bidding_closed": "Bidding is closed for this Tender",
+
+  "view_all_tenders": "View all Tenders published",
+  "no_new_tenders": "No new tenders published recently.",
+  "view_all_news_events": "View all News & Events published",
+  "view_all_lnc": "View all Letters & Circulars published",
+  "view_all_projects": "View all Projects published",
+  "view_all_services": "View all Services published",
+
+  "view_all_archived_tenders": "View all archived Tenders ",
+  "ancorp_address": "AN Corp, Jubilee Hills Rd, Jubilee Hills, Hyderabad, Telangana 500033",
+
+  "footer": {
+    "board_of_directors": "Board of Directors",
+    "list_of_md": "List of Managing Directors",
+    "our_team": "Our Team",
+    "org_chart": "Organisation Chart",
+    "mission_vision": "Mission & Vision",
+    "latest_updates": "Latest Updates",
+    "assets_delarartion": "Assets Declaration",
+    "website_policies": "Website Policies",
+    "csr_policies": "CSR Policies",
+    "annual_return": "Annual Return",
+    "contact_us": "Contact Us",
+    "sitemap": "Sitemap",
+
+    "national_portal_of_india": "National Portal of India",
+    "miety": "Ministry of Electronics & IT, Govt. of India",
+    "dit": "Department of Information Technology, Bihar",
+    "rti": "Online Right to Information, Bihar",
+    "eproc_system": "E-Procurement System",
+    "designed_by": "Designed & Developed by AN Corp PVT LTD",
+    "call_center": "Call Center No."
+  },
+
+  "published_on": "Published On",
+
+  "tender_name": "Tender Name",
+  "last_date_of_bid_submission": "Last Date of Bid Submission",
+  "bid_opening_datetime": "Opening of Bid",
+  "tender_details": "Tender Details",
+  "action_view": "View",
+
+  "headline": "Headline",
+  "letter_circulars": "Letter & Circulars",
+
+  "rate_document": "Rate Document",
+
+  "issued_year": "Issued Year",
+  "issued_date": "Issued Date",
+  "status": "Status",
+  "download_latestnews_file": "Download file",
+  "download_important_information_file": "Download important information file",
+  "download_forms_file": "Download forms file",
+  "download_notifications_file": "Download notification file",
+  "download_letters_and_circulars_file": "Download letters & circulars file",
+  "download_advertisements_file": "Download advertisement file",
+
+  "new_badge_ui": "New"
+}
