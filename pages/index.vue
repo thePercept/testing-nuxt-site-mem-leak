@@ -2176,8 +2176,9 @@ export default {
       return cls;
     },
     resolveImageSrc(url, project, index) {
-      // console.log('URL is', url, project, index);
-      // ['project_secondary_images'][0]['project_image'];
+      // console.log("URL is",url,project,index);
+      // ['project_secondary_images'][0]['project_image']
+      //
 
       var remainingUrl = '';
 
